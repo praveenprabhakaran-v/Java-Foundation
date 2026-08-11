@@ -18,3 +18,12 @@ public class Patterns {
     }
     
 }
+
+/*
+How it works :-
+The outer while loop (i) controls the 5 rows.
+The inner while loop (j) controls the 5 $ symbols in each row.
+System.out.print("$") stays on the same line.
+System.out.println() moves the cursor to the next line after each row.
+*/
+
